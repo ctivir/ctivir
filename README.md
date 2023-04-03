@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on special project💖 
-- 🌱 I’m currently learning T-SQL
+- 🔭 I’m currently working on special project 💖 
+- 🌱 I’m currently learning AI
 - 🤔 I’m looking to collaborate on open source projects
 - 😄 Pronouns: She/Her
 

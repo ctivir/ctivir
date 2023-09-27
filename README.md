@@ -1,20 +1,17 @@
-### Hi there 👋
+### Hi there 🤖 
+
+#### About Me 
 - 🔭 I’m currently working on special project 💖 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning ML 
 - 🤔 I’m looking to collaborate on open source projects
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers and I'm from Moz
+
+#### Get in Touch 
+- LinkedIn: [**Cecilia Tivir**](https://www.linkedin.com/in/ctivir/)
+- Instagram: [@ctivir](https://www.instagram.com/ctivir/) 
+- X (Twiter): [@ctivir](https://twitter.com/ctivir) 
 
 <!--
 **ctivir/ctivir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##### Podcasts
 -->

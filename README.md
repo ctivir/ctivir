@@ -18,7 +18,7 @@
   <a href="mailto:ceciliativir@outlook.com"><img src="https://img.shields.io/badge/send a mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/ctivir"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/ctivir"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>  
-  <a href="https://www.instagram.com/in/ctivir"><img src="https://img.icons8.com/color/50/000000/instagram.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/ctivir"><img src="https://img.icons8.com/color/50/000000/instagram.png" alt="instagram"/></a>
 <p> 
   
 <!--
